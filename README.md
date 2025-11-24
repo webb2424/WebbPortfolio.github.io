@@ -1,2 +1,0 @@
-# WebbPortfolio.github.io
-Portfolio
